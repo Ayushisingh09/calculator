@@ -1,4 +1,4 @@
-<h1 align="center">🔢 Calculator by <span style="color:red;">Code X</span></h1>
+<h1 align="center">🔢 Calculator by <span style="color:red;">Nex Development</span></h1>
 
 <p align="center">
   <img src="calc.png" width="100" alt="Calculator Icon" />
